@@ -15,7 +15,7 @@
   "dependencies": {
     "@expo/samples": "2.1.1",
     "axios": "^0.18.0",
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "moment": "^2.24.0",
     "native-base": "^2.12.0",
     "prop-types": "^15.6.2",
